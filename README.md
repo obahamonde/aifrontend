@@ -25,3 +25,19 @@ Se tienen los siguientes microservicios:
 
 Para la primera iteración se tiene disponible un repositorio con el proyecto de Vue.js que actualmente está conectado con el ChatBot y la Base de Datos, se busca poder integrarlo con el resto de microservicios y construir una interfaz de usuario distribuida y conectada mediante module federation compartiendo el State de Pinia para mantener la sesión del usuario.
 Se requiere tener un codigo mantenible, componentes reusables y logica encapsulada en composables para poder escalar el proyecto a las siguientes fases, cabe la posibilidad de convertirse en una sociedad de desarrollo de software.
+
+# Como postular?
+
+Enviar una Pull Request a este repositorio con su propuesta en la carpeta frontend, explicada y detallada en un archivo markdown con el nombre de su usuario de github.
+
+# Requisitos
+
+- Vue 3
+- Typescript
+- Composition API
+- TailwindCSS
+- Data Fetching Patterns
+
+# Salario
+
+- 800-1500 PEN por iteración basado en el valor entregado. Negociable.
