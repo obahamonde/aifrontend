@@ -40,4 +40,4 @@ Enviar una Pull Request a este repositorio con su propuesta en la carpeta fronte
 
 # Salario
 
-- 800-1500 PEN por iteración basado en el valor entregado. Negociable.
+- 1200-2000 PEN por iteración basado en el valor entregado. Negociable.
